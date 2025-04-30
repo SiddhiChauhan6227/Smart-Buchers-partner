@@ -1,0 +1,1 @@
+ /Users/infinitiesiddhi/Downloads/AdeebERestro/SmartButcherPartner/.dart_tool/flutter_build/783a6b8a7518ea2ec8382737a3dd48a8/native_assets.yaml: 
