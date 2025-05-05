@@ -1,0 +1,6 @@
+framework module external_path {
+  umbrella header "external_path-umbrella.h"
+
+  export *
+  module * { export * }
+}

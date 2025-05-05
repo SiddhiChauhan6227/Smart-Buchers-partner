@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "48700845514",
+    "project_id": "smartbutchers-7bcaf",
+    "storage_bucket": "smartbutchers-7bcaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48700845514:android:524e20d55ae984ee5c3333",
+        "android_client_info": {
+          "package_name": "com.smartbuchers.partnerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48700845514-0sbrp19sq7uvocck570gbf9b4li26bp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbuchers.partnerapp",
+            "certificate_hash": "b22ec58bc5fbb175a522cd40c90fe1ea28b88804"
+          }
+        },
+        {
+          "client_id": "48700845514-293ued19fgs9kfk65d3oeuviveqkpdgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbuchers.partnerapp",
+            "certificate_hash": "613c2b007e2de2417216b4b91954225f3401f8df"
+          }
+        },
+        {
+          "client_id": "48700845514-2lkv0phmn6cp00iakm03hhcg17pq9g69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbuchers.partnerapp",
+            "certificate_hash": "5ff257ac5ac7086a2481799cdb9a1d766fa5ebf4"
+          }
+        },
+        {
+          "client_id": "48700845514-jld627u4ildtj4uba4opgp6f3iql6ck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUjldSzdElama2cx5dTqL41t5RLnsRZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48700845514-jld627u4ildtj4uba4opgp6f3iql6ck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48700845514:android:6f43fa53256908c65c3333",
+        "android_client_info": {
+          "package_name": "com.smartbutchers.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48700845514-d6du34n7ft7p7dlmhf0b4q51jqiqc6tc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbutchers.customer",
+            "certificate_hash": "5ff257ac5ac7086a2481799cdb9a1d766fa5ebf4"
+          }
+        },
+        {
+          "client_id": "48700845514-n2prhh3k8onmc8865808fdjm1cdkbvtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbutchers.customer",
+            "certificate_hash": "86c00ed7da8d928ed2c394f4d4052c67213b33a9"
+          }
+        },
+        {
+          "client_id": "48700845514-rrneo2gecvd5v07762iu1dp6c2mj1v4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbutchers.customer",
+            "certificate_hash": "27ec37118aba9167ffb9d983e7afd57765c3f18c"
+          }
+        },
+        {
+          "client_id": "48700845514-jld627u4ildtj4uba4opgp6f3iql6ck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUjldSzdElama2cx5dTqL41t5RLnsRZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48700845514-jld627u4ildtj4uba4opgp6f3iql6ck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48700845514:android:444221b395d8e7e85c3333",
+        "android_client_info": {
+          "package_name": "com.smartbutchers.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48700845514-8g35rphin3ijbt8s4vrf6cjdm76oogs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbutchers.partner",
+            "certificate_hash": "613c2b007e2de2417216b4b91954225f3401f8df"
+          }
+        },
+        {
+          "client_id": "48700845514-leucsthththhr1f54q78qarg32nk6qjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbutchers.partner",
+            "certificate_hash": "27ec37118aba9167ffb9d983e7afd57765c3f18c"
+          }
+        },
+        {
+          "client_id": "48700845514-vlqemprfaqe9fdgrsjbc63thea122alm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbutchers.partner",
+            "certificate_hash": "5ff257ac5ac7086a2481799cdb9a1d766fa5ebf4"
+          }
+        },
+        {
+          "client_id": "48700845514-jld627u4ildtj4uba4opgp6f3iql6ck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUjldSzdElama2cx5dTqL41t5RLnsRZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48700845514-jld627u4ildtj4uba4opgp6f3iql6ck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48700845514:android:34ad52f1791e1bd65c3333",
+        "android_client_info": {
+          "package_name": "com.smartbutchers.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48700845514-avc8239gohmmfrb5rnuvoated4d2mf7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbutchers.rider",
+            "certificate_hash": "34fb8c9e2bd2b1895a5d2d1e8dfac6d08ae7f02f"
+          }
+        },
+        {
+          "client_id": "48700845514-mn2qnvsdke9lhe1usjtkehu2eggo09q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbutchers.rider",
+            "certificate_hash": "27ec37118aba9167ffb9d983e7afd57765c3f18c"
+          }
+        },
+        {
+          "client_id": "48700845514-jld627u4ildtj4uba4opgp6f3iql6ck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUjldSzdElama2cx5dTqL41t5RLnsRZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48700845514-jld627u4ildtj4uba4opgp6f3iql6ck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
